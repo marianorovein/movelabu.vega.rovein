@@ -1,0 +1,231 @@
+[{
+  "_id": {
+    "$oid": "6ac199993f28e4f3c1027ed8"
+  },
+  "fecha": {
+    "$date": "2026-10-04T00:11:05.873Z"
+  },
+  "tipo": "Sesión",
+  "descripcion": "admin inició sesión",
+  "usuario": "admin"
+},
+{
+  "_id": {
+    "$oid": "6ac1cf08716e2ddad481d56f"
+  },
+  "fecha": {
+    "$date": "2026-10-04T03:59:04.061Z"
+  },
+  "tipo": "Sesión",
+  "descripcion": "admin inició sesión",
+  "usuario": "admin"
+},
+{
+  "_id": {
+    "$oid": "6ac3824565689a97cb1486cc"
+  },
+  "fecha": {
+    "$date": "2026-10-05T10:56:05.307Z"
+  },
+  "tipo": "Sesión",
+  "descripcion": "admin inició sesión",
+  "usuario": "admin"
+},
+{
+  "_id": {
+    "$oid": "6ac43a1038260103e1c188fb"
+  },
+  "fecha": {
+    "$date": "2026-10-06T00:00:16.169Z"
+  },
+  "tipo": "Sesión",
+  "descripcion": "admin inició sesión",
+  "usuario": "admin"
+},
+{
+  "_id": {
+    "$oid": "6ac4d5a1bf564632dd46f745"
+  },
+  "fecha": {
+    "$date": "2026-10-06T11:04:01.210Z"
+  },
+  "tipo": "Sesión",
+  "descripcion": "admin inició sesión",
+  "usuario": "admin"
+},
+{
+  "_id": {
+    "$oid": "6ac4d9a9b03b9c14b2dd57ce"
+  },
+  "fecha": {
+    "$date": "2026-10-06T11:21:13.068Z"
+  },
+  "tipo": "Sesión",
+  "descripcion": "admin inició sesión",
+  "usuario": "admin"
+},
+{
+  "_id": {
+    "$oid": "6ac4da85b9747195bfe40be9"
+  },
+  "fecha": {
+    "$date": "2026-10-06T11:24:53.026Z"
+  },
+  "tipo": "Sesión",
+  "descripcion": "admin inició sesión",
+  "usuario": "admin"
+},
+{
+  "_id": {
+    "$oid": "6ac4ffeed97c16218986426c"
+  },
+  "fecha": {
+    "$date": "2026-10-06T14:04:30.582Z"
+  },
+  "tipo": "Sesión",
+  "descripcion": "admin inició sesión",
+  "usuario": "admin"
+},
+{
+  "_id": {
+    "$oid": "6ac502afbd2af246a0169494"
+  },
+  "fecha": {
+    "$date": "2026-10-06T14:16:15.431Z"
+  },
+  "tipo": "Sesión",
+  "descripcion": "admin inició sesión",
+  "usuario": "admin"
+},
+{
+  "_id": {
+    "$oid": "6ac51a5451207ced8164222e"
+  },
+  "fecha": {
+    "$date": "2026-10-06T15:57:08.000Z"
+  },
+  "tipo": "Sesión",
+  "descripcion": "admin inició sesión",
+  "usuario": "admin"
+},
+{
+  "_id": {
+    "$oid": "6ac51aa8e576d4695a2492ef"
+  },
+  "fecha": {
+    "$date": "2026-10-06T15:58:32.734Z"
+  },
+  "tipo": "Sesión",
+  "descripcion": "admin inició sesión",
+  "usuario": "admin"
+},
+{
+  "_id": {
+    "$oid": "6ac52b5bf775a67884069273"
+  },
+  "fecha": {
+    "$date": "2026-10-06T17:09:47.137Z"
+  },
+  "tipo": "Sesión",
+  "descripcion": "admin inició sesión",
+  "usuario": "admin"
+},
+{
+  "_id": {
+    "$oid": "6ac5421e56589374d281f520"
+  },
+  "fecha": {
+    "$date": "2026-10-06T18:46:54.537Z"
+  },
+  "tipo": "Sesión",
+  "descripcion": "admin inició sesión",
+  "usuario": "admin"
+},
+{
+  "_id": {
+    "$oid": "6ac543152b392060253db578"
+  },
+  "fecha": {
+    "$date": "2026-10-06T18:51:01.542Z"
+  },
+  "tipo": "Sesión",
+  "descripcion": "admin inició sesión",
+  "usuario": "admin"
+},
+{
+  "_id": {
+    "$oid": "6ac5439c2b392060253db579"
+  },
+  "fecha": {
+    "$date": "2026-10-06T18:53:16.524Z"
+  },
+  "tipo": "Entrenador",
+  "descripcion": "Se agregó el entrenador lautaro ruiz",
+  "usuario": "admin"
+},
+{
+  "_id": {
+    "$oid": "6ac543e32b392060253db57a"
+  },
+  "fecha": {
+    "$date": "2026-10-06T18:54:27.473Z"
+  },
+  "tipo": "Entrenador",
+  "descripcion": "Se agregó el entrenador sofia vega",
+  "usuario": "admin"
+},
+{
+  "_id": {
+    "$oid": "6ac5448e2b392060253db57b"
+  },
+  "fecha": {
+    "$date": "2026-10-06T18:57:18.683Z"
+  },
+  "tipo": "Entrenador",
+  "descripcion": "Se agregó el entrenador lucas fernandez",
+  "usuario": "admin"
+},
+{
+  "_id": {
+    "$oid": "6ac549b35645ed6099574549"
+  },
+  "fecha": {
+    "$date": "2026-10-06T19:19:15.312Z"
+  },
+  "tipo": "Sesión",
+  "descripcion": "admin inició sesión",
+  "usuario": "admin"
+},
+{
+  "_id": {
+    "$oid": "6ac549c95645ed609957454a"
+  },
+  "fecha": {
+    "$date": "2026-10-06T19:19:37.428Z"
+  },
+  "tipo": "Cliente",
+  "descripcion": "Se modificó el cliente Pedro Gómez",
+  "usuario": "admin"
+},
+{
+  "_id": {
+    "$oid": "6ac54a948e2ed7ce442d9ff0"
+  },
+  "fecha": {
+    "$date": "2026-10-06T19:23:00.483Z"
+  },
+  "tipo": "Sesión",
+  "descripcion": "admin inició sesión",
+  "usuario": "admin"
+},
+{
+  "_id": {
+    "$oid": "6ac54acfb42a40d7de632f3b"
+  },
+  "fecha": {
+    "$date": "2026-10-06T19:23:59.942Z"
+  },
+  "tipo": "Sesión",
+  "descripcion": "admin inició sesión",
+  "usuario": "admin"
+}]
